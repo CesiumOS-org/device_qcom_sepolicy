@@ -122,3 +122,26 @@ attribute vendor_qtiloopback_client;
 attribute vendor_hal_debugutils;
 attribute vendor_hal_debugutils_client;
 attribute vendor_hal_debugutils_server;
+
+attribute vendor_hal_wifimyftm;
+attribute vendor_hal_wifimyftm_client;
+attribute vendor_hal_wifimyftm_server;
+
+attribute vendor_hal_mem_pasrmanager;
+attribute vendor_hal_mem_pasrmanager_client;
+attribute vendor_hal_mem_pasrmanager_server;
+
+attribute hal_wificfr;
+attribute hal_wificfr_client;
+attribute hal_wificfr_server;
+
+attribute vendor_sxrhalservice;
+attribute vendor_sxrhalservice_client;
+attribute vendor_sxrhalservice_server;
+
+attribute vendor_hal_sxrservice_qti;
+attribute vendor_hal_sxrservice_qti_client;
+attribute vendor_hal_sxrservice_qti_server;
+attribute vendor_hal_sxrservice_qti_socket_client;
+attribute vendor_hal_sxrservice_qti_socket_fd_use_client;
+attribute vendor_sys_sxrauxservice_qti_socket_client;
